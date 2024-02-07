@@ -1,1 +1,2 @@
-# sylvan-glade-unity-script-template-examples
+# Script Template Examples | Sylvan Glade Studio
+
