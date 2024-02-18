@@ -3,6 +3,8 @@
 A set of script templates to use when creating scripts in Unity.
 Replaces the default script template with an empty one (removes Start and Update, and unused imports).
 
+For video instructions, click [here](https://youtu.be/ATD22cEUy0M).
+
 ## Install
 - Paste the ScriptTemplates folder into your Unity Assets directory.
 - Restart Unity.
