@@ -1,4 +1,4 @@
-# Script Template Examples | Sylvan Glade Studio
+# Script Template Examples | Norrwyn
 
 A set of script templates to use when creating scripts in Unity.
 Replaces the default script template with an empty one (removes Start and Update, and unused imports).
